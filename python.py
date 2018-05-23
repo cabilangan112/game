@@ -1,7 +1,6 @@
 from __future__ import print_function
 import random
 import os
-from tkinter import *
 import sys
 #clear output 
 
